@@ -6872,3 +6872,248 @@ Sampler Limit: 32
 [2026.03.12-15.57.19:187][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.12-15.57.19:187][119]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
 [2026.03.12-15.57.19:218][119]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.12-15.58.24:891][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.12-15.58.27:746][537]LogSlate: Window 'Save Content' being destroyed
+[2026.03.12-15.58.27:771][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-15.58.27:839][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/Chambre_Mtl] ([1] browsable assets)...
+[2026.03.12-15.58.27:839][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/Chambre_Mtl]
+[2026.03.12-15.58.27:846][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/Chambre_Mtl
+[2026.03.12-15.58.27:846][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/Chambre_Mtl063F28C34302E5C062EFE0A50D58E30A.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/Chambre_Mtl.uasset'
+[2026.03.12-15.58.27:846][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/Mur2/Mur2SalonSangMtl] ([1] browsable assets)...
+[2026.03.12-15.58.27:846][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/Mur2/Mur2SalonSangMtl]
+[2026.03.12-15.58.27:851][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/Mur2/Mur2SalonSangMtl
+[2026.03.12-15.58.27:851][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/Mur2SalonSangMtlA2ED717D407720FC19450EA9BD9DDE19.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/Mur2/Mur2SalonSangMtl.uasset'
+[2026.03.12-15.58.27:852][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/Mur2/MurChambreMtl2] ([1] browsable assets)...
+[2026.03.12-15.58.27:852][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/Mur2/MurChambreMtl2]
+[2026.03.12-15.58.27:856][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/Mur2/MurChambreMtl2
+[2026.03.12-15.58.27:857][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurChambreMtl23750F70E498AB0EC60702597BBDE5260.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/Mur2/MurChambreMtl2.uasset'
+[2026.03.12-15.58.27:857][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurCompletChamMtl] ([1] browsable assets)...
+[2026.03.12-15.58.27:857][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurCompletChamMtl]
+[2026.03.12-15.58.27:861][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurCompletChamMtl
+[2026.03.12-15.58.27:862][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurCompletChamMtl71F921DB467B2BC20DA9F396F7D6B458.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurCompletChamMtl.uasset'
+[2026.03.12-15.58.27:862][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurFenetre_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:862][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurFenetre_Base_color]
+[2026.03.12-15.58.27:873][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurFenetre_Base_color
+[2026.03.12-15.58.27:873][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurFenetre_Base_color78ED5CA94CD48E5F3B00D8810D7F4FB0.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurFenetre_Base_color.uasset'
+[2026.03.12-15.58.27:875][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/MurFenetre_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:875][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/MurFenetre_Base_color]
+[2026.03.12-15.58.27:883][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/MurFenetre_Base_color
+[2026.03.12-15.58.27:883][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurFenetre_Base_colorD6231CF34494F232629B1F8FF75BBD42.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurFenetre_Base_color.uasset'
+[2026.03.12-15.58.27:883][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurFenetre_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.27:884][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurFenetre_Roughness]
+[2026.03.12-15.58.27:889][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurFenetre_Roughness
+[2026.03.12-15.58.27:889][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurFenetre_Roughness9FDC5646413FAE04B354C583CE27961D.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurFenetre_Roughness.uasset'
+[2026.03.12-15.58.27:890][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/MurFenetre_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.27:890][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/MurFenetre_Roughness]
+[2026.03.12-15.58.27:895][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/MurFenetre_Roughness
+[2026.03.12-15.58.27:895][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurFenetre_RoughnessCC4672DA403F4D3ED69E219336574303.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurFenetre_Roughness.uasset'
+[2026.03.12-15.58.27:896][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/MurSalon003] ([1] browsable assets)...
+[2026.03.12-15.58.27:896][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/MurSalon003]
+[2026.03.12-15.58.27:896][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yanis/Kit/KitSalon/MurSalon003" FILE="../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurSalon003.uasset" SILENT=true
+[2026.03.12-15.58.27:901][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/MurSalon003
+[2026.03.12-15.58.27:901][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon003746442AB48B660E23F05E0A72F80590B.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurSalon003.uasset'
+[2026.03.12-15.58.27:902][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:902][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Base_color]
+[2026.03.12-15.58.27:909][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Base_color
+[2026.03.12-15.58.27:909][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Base_color86AEB81C4C885C05FA89F0AFDB430E0F.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/Mur2/MurSalon1_Base_color.uasset'
+[2026.03.12-15.58.27:910][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:912][537]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Base_color.MurSalon1_Base_color]
+[2026.03.12-15.58.27:912][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Base_color]
+[2026.03.12-15.58.27:970][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Base_color
+[2026.03.12-15.58.27:970][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Base_colorD135427F4C123E618101B29E4D8C5345.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Base_color.uasset'
+[2026.03.12-15.58.27:971][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurSalon1_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:971][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurSalon1_Base_color]
+[2026.03.12-15.58.27:979][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurSalon1_Base_color
+[2026.03.12-15.58.27:979][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Base_color6A63746F456FBF59A6BF39A46566C81E.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurSalon1_Base_color.uasset'
+[2026.03.12-15.58.27:980][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:980][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Base_color]
+[2026.03.12-15.58.27:988][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Base_color
+[2026.03.12-15.58.27:988][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Base_color44EBF34F45D658E7B285C5B7C6486854.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/Mur2/MurSalon1_Base_color.uasset'
+[2026.03.12-15.58.27:989][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/MurSalon1_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.27:989][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/MurSalon1_Base_color]
+[2026.03.12-15.58.27:996][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/MurSalon1_Base_color
+[2026.03.12-15.58.27:996][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Base_color823B9C5A4F799FBD48C2709CF8C95B0A.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurSalon1_Base_color.uasset'
+[2026.03.12-15.58.27:998][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.27:998][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Roughness]
+[2026.03.12-15.58.28:003][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Roughness
+[2026.03.12-15.58.28:003][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Roughness87CEA554420FA3F6BA30FB9D8E508E50.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/Mur2/MurSalon1_Roughness.uasset'
+[2026.03.12-15.58.28:004][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:006][537]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Roughness.MurSalon1_Roughness]
+[2026.03.12-15.58.28:006][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Roughness]
+[2026.03.12-15.58.28:015][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Roughness
+[2026.03.12-15.58.28:015][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Roughness44F676144F27E609459D5995B39747F9.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Roughness.uasset'
+[2026.03.12-15.58.28:015][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurSalon1_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:015][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurSalon1_Roughness]
+[2026.03.12-15.58.28:021][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurSalon1_Roughness
+[2026.03.12-15.58.28:021][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Roughness0A0F8183427860B5ECA2E49E395452DA.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurSalon1_Roughness.uasset'
+[2026.03.12-15.58.28:022][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:022][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Roughness]
+[2026.03.12-15.58.28:027][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Roughness
+[2026.03.12-15.58.28:027][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_Roughness4D1485D24776FC164CBED493775DEC0F.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/Mur2/MurSalon1_Roughness.uasset'
+[2026.03.12-15.58.28:027][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/MurSalon1_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:027][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/MurSalon1_Roughness]
+[2026.03.12-15.58.28:034][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/MurSalon1_Roughness
+[2026.03.12-15.58.28:034][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalon1_RoughnessC2DC5A6B4F7FE2E523C3B1A56063D778.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurSalon1_Roughness.uasset'
+[2026.03.12-15.58.28:034][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/MurSalonMois] ([1] browsable assets)...
+[2026.03.12-15.58.28:034][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/MurSalonMois]
+[2026.03.12-15.58.28:039][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/MurSalonMois
+[2026.03.12-15.58.28:039][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSalonMois655F423F4E8C294AD0CCE28B93A1B340.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/MurSalonMois.uasset'
+[2026.03.12-15.58.28:041][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/MurChambre/2/MurSang2] ([1] browsable assets)...
+[2026.03.12-15.58.28:041][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/MurChambre/2/MurSang2]
+[2026.03.12-15.58.28:046][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSang2
+[2026.03.12-15.58.28:046][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/MurSang22FC0AE044C1492A8CCA0A1B073A2E480.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/MurChambre/2/MurSang2.uasset'
+[2026.03.12-15.58.28:047][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/PostProAndLights/PP_Mtl_Inst] ([1] browsable assets)...
+[2026.03.12-15.58.28:047][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/PostProAndLights/PP_Mtl_Inst]
+[2026.03.12-15.58.28:051][537]LogSavePackage: Moving output files for package: /Game/Yanis/PostProAndLights/PP_Mtl_Inst
+[2026.03.12-15.58.28:051][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/PP_Mtl_Inst43B994534CF70DA907B9D78385A42BD2.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/PostProAndLights/PP_Mtl_Inst.uasset'
+[2026.03.12-15.58.28:052][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/SolSalon_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.28:052][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/SolSalon_Base_color]
+[2026.03.12-15.58.28:060][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/SolSalon_Base_color
+[2026.03.12-15.58.28:060][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SolSalon_Base_colorB78F312C4CDC414F3935BFBB3198528E.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/SolSalon_Base_color.uasset'
+[2026.03.12-15.58.28:061][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/SolSalon_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.28:061][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/SolSalon_Base_color]
+[2026.03.12-15.58.28:068][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/SolSalon_Base_color
+[2026.03.12-15.58.28:068][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SolSalon_Base_color61ADB81F443EE7D8F0D9D4A829A511E9.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/SolSalon_Base_color.uasset'
+[2026.03.12-15.58.28:070][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSdB/SolSalon_Base_color] ([1] browsable assets)...
+[2026.03.12-15.58.28:070][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSdB/SolSalon_Base_color]
+[2026.03.12-15.58.28:076][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSdB/SolSalon_Base_color
+[2026.03.12-15.58.28:076][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SolSalon_Base_color00E7F4D946D4EAE1CBDED6BC0724E712.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSdB/SolSalon_Base_color.uasset'
+[2026.03.12-15.58.28:076][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitChambre/SolSalon_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:076][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitChambre/SolSalon_Roughness]
+[2026.03.12-15.58.28:082][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitChambre/SolSalon_Roughness
+[2026.03.12-15.58.28:082][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SolSalon_RoughnessAB97981D452354445E38429C644FBD7C.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitChambre/SolSalon_Roughness.uasset'
+[2026.03.12-15.58.28:082][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/SolSalon_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:082][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/SolSalon_Roughness]
+[2026.03.12-15.58.28:087][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/SolSalon_Roughness
+[2026.03.12-15.58.28:087][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SolSalon_RoughnessEC61E01F469B55D83015368602456A39.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/SolSalon_Roughness.uasset'
+[2026.03.12-15.58.28:088][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSdB/SolSalon_Roughness] ([1] browsable assets)...
+[2026.03.12-15.58.28:088][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSdB/SolSalon_Roughness]
+[2026.03.12-15.58.28:093][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSdB/SolSalon_Roughness
+[2026.03.12-15.58.28:093][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SolSalon_Roughness7294C24E411E0E53755478951C466B36.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSdB/SolSalon_Roughness.uasset'
+[2026.03.12-15.58.28:094][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yanis/Kit/KitSalon/Sol_Salon] ([1] browsable assets)...
+[2026.03.12-15.58.28:094][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yanis/Kit/KitSalon/Sol_Salon]
+[2026.03.12-15.58.28:094][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yanis/Kit/KitSalon/Sol_Salon" FILE="../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/Sol_Salon.uasset" SILENT=true
+[2026.03.12-15.58.28:099][537]LogSavePackage: Moving output files for package: /Game/Yanis/Kit/KitSalon/Sol_Salon
+[2026.03.12-15.58.28:099][537]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/Sol_SalonE484DB90417CBD6E947822BE3F95DDC5.tmp' to '../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Content/Yanis/Kit/KitSalon/Sol_Salon.uasset'
+[2026.03.12-15.58.28:107][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 336.439 ms (total: 4.13 sec)
+[2026.03.12-15.58.28:151][537]LogStall: Shutdown...
+[2026.03.12-15.58.28:151][537]LogStall: Shutdown complete.
+[2026.03.12-15.58.28:248][537]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:248][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:364][537]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:364][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:432][537]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:432][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:568][537]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:568][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:654][537]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:654][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:791][537]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:791][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:890][537]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:890][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.28:959][537]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.28:959][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.29:016][537]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.29:016][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.29:045][537]LogSlate: Window 'MurSang2' being destroyed
+[2026.03.12-15.58.29:062][537]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.29:062][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.29:097][537]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.03.12-15.58.29:943][537]LogSlate: Window 'test_why_hungover - Unreal Editor' being destroyed
+[2026.03.12-15.58.30:405][537]LogContentValidation: Display: Starting to validate 29 assets
+[2026.03.12-15.58.30:405][537]LogContentValidation: Enabled validators:
+[2026.03.12-15.58.30:405][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-15.58.30:405][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-15.58.30:405][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-15.58.30:405][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-15.58.30:405][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-15.58.30:405][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/Chambre_Mtl Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/Mur2/Mur2SalonSangMtl Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/Mur2/MurChambreMtl2 Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurCompletChamMtl Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurFenetre_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/MurFenetre_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurFenetre_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/MurFenetre_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/MurSalon003 Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurSalon1_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/MurSalon1_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/Mur2/MurSalon1_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSalon1_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurSalon1_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/Mur2/MurSalon1_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/MurSalon1_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/MurSalonMois Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/MurChambre/2/MurSang2 Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/PostProAndLights/PP_Mtl_Inst Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/SolSalon_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/SolSalon_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSdB/SolSalon_Base_color Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitChambre/SolSalon_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSalon/SolSalon_Roughness Validating asset
+[2026.03.12-15.58.30:405][537]AssetCheck: /Game/Yanis/Kit/KitSdB/SolSalon_Roughness Validating asset
+[2026.03.12-15.58.30:406][537]AssetCheck: /Game/Yanis/Kit/KitSalon/Sol_Salon Validating asset
+[2026.03.12-15.58.30:478][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.12-15.58.30:506][537]Cmd: QUIT_EDITOR
+[2026.03.12-15.58.30:506][537]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.12-15.58.30:506][537]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/EDUSERVICES/Desktop/why_hangover/unreal_projet/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.12-15.58.30:513][538]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.12-15.58.30:514][538]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.12-15.58.30:514][538]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.12-15.58.30:515][538]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.30:516][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.30:516][538]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Lvl_TopDown.Lvl_TopDown
+[2026.03.12-15.58.30:525][538]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.12-15.58.30:525][538]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.12-15.58.30:526][538]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.12-15.58.30:541][538]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.30:541][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.30:542][538]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.30:542][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.30:542][538]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-15.58.30:542][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-15.58.30:542][538]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.12-15.58.30:542][538]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.12-15.58.30:546][538]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.12-15.58.30:928][538]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.12-15.58.30:928][538]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.12-15.58.30:928][538]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2026.03.12-15.58.30:928][538]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.12-15.58.30:928][538]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.12-15.58.30:931][538]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.12-15.58.30:941][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.12-15.58.30:941][538]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.12-15.58.30:942][538]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.03.12-15.58.30:944][538]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.12-15.58.30:944][538]LogExit: Preparing to exit.
+[2026.03.12-15.58.30:968][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.12-15.58.31:226][538]LogEditorDataStorage: Deinitializing
+[2026.03.12-15.58.31:308][538]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.12-15.58.31:332][538]LogExit: Editor shut down
+[2026.03.12-15.58.31:338][538]LogExit: Transaction tracking system shut down
+[2026.03.12-15.58.31:511][538]LogExit: Object subsystem successfully closed.
+[2026.03.12-15.58.31:618][538]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.12-15.58.31:714][538]LogMemoryProfiler: Shutdown
+[2026.03.12-15.58.31:714][538]LogNetworkingProfiler: Shutdown
+[2026.03.12-15.58.31:714][538]LoadingProfiler: Shutdown
+[2026.03.12-15.58.31:714][538]LogTimingProfiler: Shutdown
+[2026.03.12-15.58.31:714][538]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.12-15.58.31:714][538]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.12-15.58.32:124][538]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.12-15.58.32:124][538]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.12-15.58.32:124][538]RenderDocPlugin: plugin has been unloaded.
+[2026.03.12-15.58.32:156][538]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.12-15.58.32:156][538]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA469D976-4130-602E-DFA8-39997DFD8853%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e854062140d913e0e3e0ea869eae5815%7C26b5ba143f7f47f39abb7faa6606a1be%7Cefcd37e0-a952-4230-ac69-ce02131f8695&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.12-15.58.32:693][538]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.12-15.58.32:697][538]LogXGEController: Cleaning working directory: C:/Users/EDUSERVICES/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.12-15.58.32:699][538]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.12-15.58.32:699][538]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.12-15.58.32:699][538]LogPakFile: Destroying PakPlatformFile
+[2026.03.12-15.58.33:437][538]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.12-15.58.33:476][538]LogExit: Exiting.
+[2026.03.12-15.58.33:498][538]Log file closed, 03/12/26 16:58:33
